@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KimMilyoner" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="ResourceDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Lenovo\Google Drive\Junks\cSharp\KimMilyonerOlmakIster\Resources</Value>
+    </Setting>
+    <Setting Name="Soundfiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Lenovo\Google Drive\Junks\cSharp\KimMilyonerOlmakIster\Resources</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

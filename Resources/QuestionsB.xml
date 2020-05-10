@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question  question="The place where the wedding __________, I noticed that the tablecloths __________ as purple and white." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>Has been held / are arranged</answer>
+      <answer>Will be held / have arranged</answer>
+      <answer>Would have held / had been arranged</answer>
+      <answer coorect="1">Was to be held / were arranged</answer>
+    </answers>
+  </Question>
+  <Question  question="Sam __________ a certain daily dose of his vitamin pill, which helps __________ him from influenza." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1">Needs to be given / to protect</answer>
+      <answer>Has been made to give / protected</answer>
+      <answer>Is allowed to give / to be protecting</answer>
+      <answer>Needs giving / being protected</answer>
+    </answers>
+  </Question>
+  <Question  question="I didn’t enjoy watching the film as it __________ very poorly." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>Captioned</answer>
+      <answer>Had captioned</answer>
+      <answer coorect="1" >was captioned</answer>
+      <answer>has been captioning</answer>
+    </answers>
+  </Question>
+  
+  <Question  question="To keep the children __________, you must assure them that they __________ according to their performances.(" photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>To motivate / are rewarded </answer>
+      <answer coorect="1">Motivated / will get rewarded</answer>
+      <answer>Being motivated / rewards</answer>
+      <answer>Motivating / are rewarded</answer>
+    </answers>
+  </Question>
+  <Question  question="He couldn’t avoid __________ guilty of murdering his wife." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1">Being found</answer>
+      <answer>To be found</answer>
+      <answer>To have found</answer>
+      <answer>finding</answer>
+    </answers>
+  </Question>
+  <Question  question="Green living __________ as protecting the environment by conserving and effectively using resources." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>has defined</answer>
+      <answer>was defining</answer>
+      <answer coorect="1">is defined</answer>
+      <answer>was defined</answer>
+    </answers>
+  </Question> 
+  <Question  question="The pyramid of the sun __________ in stages in the second and third centuries A.D. and __________ about 200 feet high and 700 feet in lenght." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1"> was built / measures</answer>
+      <answer>had been built / may measure</answer>
+      <answer>has been built / would measure</answer>
+      <answer>could be built / had measured</answer>
+    </answers>
+  </Question>
+  
+  <Question  question=" The best grapes __________ near the Mediterranean Sea, and they __________ there for centuries." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1">are produced / have been grown</answer>
+      <answer>are producing / are grown</answer>
+      <answer>produced / have been growing</answer>
+      <answer>have beeen producing / are growing</answer>
+    </answers>
+  </Question>
+  <Question  question="Since all the seats on the train __________, we __________ all the way here." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>will be occupied/ should have stood</answer>
+      <answer>occupied / will have to stand</answer>
+      <answer coorect="1"> were occupied / had to stand</answer>
+      <answer>had occupied / must have stood</answer>
+    </answers>
+  </Question>
+  <Question  question="By the time the mistake __________, several hundred copies of the brochure __________ out." photo="question.jpg" success="Good job you are champion." fail="Bad luck">
+    <answers>
+      <answer>had been noticed / would have sent</answer>
+      <answer>has noticed / will have sent</answer>
+      <answer coorect="1">was noticed/ had been sent</answer>
+      <answer>is noticed / will send</answer>
+    </answers>
+  </Question>
+    <Question  question="It's my ambition that as soon as my application __________, I __________ the youngest marathon-winner ever." photo="question.jpg" success="Good job you are champion." fail="Bad luck">
+    <answers>
+      <answer>has been approved / would become</answer>
+      <answer>approves / have become</answer>
+      <answer coorect="1">has been approved / will become</answer>
+      <answer>was approved / will become</answer>
+    </answers>
+  </Question>
+      <Question  question="A statement from a hospital source indicates that the kidnapped Italian businessman __________ about a day before the Italian prime minister __________ his threating speech." photo="question.jpg" success="Good job you are champion." fail="Bad luck">
+    <answers>
+      <answer>is being murdered / will make</answer>
+      <answer>has been murdered / would make</answer>
+      <answer coorect="1">was murdered / made</answer>
+      <answer>has been murdered / made</answer>
+    </answers>
+  </Question>
+</Questions>

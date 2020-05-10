@@ -1,0 +1,3 @@
+1. Each question shall have multiple answers. You need to choose the correct answer
+2. You have 3 life lines, either you can choose 50/50 so that only two answers shall be visible, one of which is wrong
+3. For other two options, you can choose an indiviual or you can consult the whole audience, you shall have 30 seconds to do the consultaion

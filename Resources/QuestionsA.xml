@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question  question="The population of the world __________ to double in 50 years." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>will be estimated</answer>
+      <answer coorect="1">is estimated</answer>
+      <answer>estimated</answer>
+      <answer>has estimated</answer>
+    </answers>
+  </Question>
+  <Question  question="It’s true that happiness __________ with money, but it’s also undeniable that some money __________ life easier." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>shouldn’t buy / has made</answer>
+      <answer>doesn’t buy / is making</answer>
+      <answer>mustn’t be bought / made</answer>
+      <answer coorect="1">can’t be bought / makes</answer>
+    </answers>
+  </Question>
+  <Question  question="The police suspect that the burglars __________ in while the guards __________ shift." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>had broken / would change</answer>
+      <answer coorect="1" >broke / were changing </answer>
+      <answer>break / have changed</answer>
+      <answer>would break / had been changing</answer>
+    </answers>
+  </Question>
+  
+  <Question  question="It is hoped that the new scheme which __________ into operation next month __________ prisoners occupy themselves usefully." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>was put / has helped</answer>
+      <answer>is putting / is helping</answer>
+      <answer coorect="1">is being put / will help</answer>
+      <answer>will be put / has helped</answer>
+    </answers>
+  </Question>
+  <Question  question="Scientists say that a great deal of work __________ before a cure for AIDS __________." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>must have done / found</answer>
+      <answer>has been done / was found</answer>
+      <answer>is being done / has found</answer>
+      <answer coorect="1">has to be done / is found</answer>
+    </answers>
+  </Question>
+  <Question  question="I hope that by the time our rivals __________ out about this deal, we __________ all the contracts." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1">find / will have signed</answer>
+      <answer>have found / will be signed</answer>
+      <answer>found / had been signed</answer>
+      <answer>will find / are signing</answer>
+    </answers>
+  </Question> 
+  <Question  question="By the middle of the 1960s crocodile hunting __________ many species critically threatened, __________ the American crocodile near to extinction." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>left / included</answer>
+      <answer>leaves / include</answer>
+      <answer>was leaving / to have included</answer>
+      <answer coorect="1">had left / including</answer>
+    </answers>
+  </Question>
+  
+  <Question  question="A wealth of new information about dinosaurs __________ over the past thirty years, and science's old ideas of dinosaurs as slow, clumsy beasts __________ around completely." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>had been learned / was turned</answer>
+      <answer>was learned / turned</answer>
+      <answer>will have been learned / has been turned</answer>
+      <answer coorect="1">has been learned / has been turned</answer>
+    </answers>
+  </Question>
+  <Question  question="In a dramatic ceremony last week, president Daniel Moi __________ on fire the 20ft tower of Ivory, which __________ in a clearing overlooking the Athi planes in Nairobi's game park" photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>sets / were erected</answer>
+      <answer>will set / will be erected</answer>
+      <answer coorect="1"> set / had been erected</answer>
+      <answer>was setting / had been erecting</answer>
+    </answers>
+  </Question>
+  <Question  question="I told him to stay on the path while he was hiking, but he __________ off into the forest and __________ by a snake." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1">wandered / was bitten</answer>
+      <answer>have wandered / will be bitten</answer>
+      <answer>wander / bite</answer>
+      <answer>had wandered / had bitten</answer>
+    </answers>
+  </Question>
+    <Question  question="Of special importance to anthropologists, hunting __________ lately by many to be the primary factor which the evolution of traits characteristics of humans." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer coorect="1">has been considered / guides</answer>
+      <answer>was considered / has guided</answer>
+      <answer>will be considered / is guiding</answer>
+      <answer>had been considered / guided</answer>
+    </answers>
+  </Question>
+      <Question  question="Soil __________ of minerals, air, water and plant and animal material and the soil particles __________ in three main size groups." photo="question.jpg" success="Well done." fail="Bad luck">
+    <answers>
+      <answer>made / come</answer>
+      <answer>has made / will come</answer>
+      <answer>was made / came</answer>
+      <answer coorect="1">is made / come</answer>
+    </answers>
+  </Question>
+</Questions>
